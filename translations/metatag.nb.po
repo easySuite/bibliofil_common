@@ -1,0 +1,340 @@
+# Norwegian Bokmål translation of Fredrikstad bibliotek
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-04-15 18:10+0200\n"
+"PO-Revision-Date: 2021-04-15 18:10+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: metatag:metatag_config:global:403:canonical
+msgctxt "metatag_config:global:403:canonical"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:403:shortlink
+msgctxt "metatag_config:global:403:shortlink"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:404:canonical
+msgctxt "metatag_config:global:404:canonical"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:404:shortlink
+msgctxt "metatag_config:global:404:shortlink"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:canonical
+msgctxt "metatag_config:global:canonical"
+msgid "[current-page:url:absolute]"
+msgstr ""
+
+#: metatag:metatag_config:global:frontpage:canonical
+msgctxt "metatag_config:global:frontpage:canonical"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:frontpage:shortlink
+msgctxt "metatag_config:global:frontpage:shortlink"
+msgid "[site:url]"
+msgstr ""
+
+#: metatag:metatag_config:global:frontpage:title
+msgctxt "metatag_config:global:frontpage:title"
+msgid "[site:name] | [current-page:pager]"
+msgstr ""
+
+#: metatag:metatag_config:global:generator
+msgctxt "metatag_config:global:generator"
+msgid "Drupal 7 (http://drupal.org)"
+msgstr ""
+
+#: metatag:metatag_config:global:shortlink
+msgctxt "metatag_config:global:shortlink"
+msgid "[current-page:url:unaliased]"
+msgstr ""
+
+#: metatag:metatag_config:global:title
+msgctxt "metatag_config:global:title"
+msgid "[current-page:title] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_config:node:description
+msgctxt "metatag_config:node:description"
+msgid "[node:summary]"
+msgstr ""
+
+#: metatag:metatag_config:node:title
+msgctxt "metatag_config:node:title"
+msgid "[node:title] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_config:taxonomy_term:description
+msgctxt "metatag_config:taxonomy_term:description"
+msgid "[term:description]"
+msgstr ""
+
+#: metatag:metatag_config:taxonomy_term:title
+msgctxt "metatag_config:taxonomy_term:title"
+msgid "[term:name] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_config:user:title
+msgctxt "metatag_config:user:title"
+msgid "[user:name] | [site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:contact_site_panel_context:title
+msgctxt "metatag_panels:contact_site_panel_context:title"
+msgid "Contact | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:ding_event_node_view:description
+msgctxt "metatag_panels:ding_event_node_view:description"
+msgid ""
+"[node:field_ding_event_lead] - [node:og_group_ref] - "
+"[node:field-ding-event-date:value] - [node:field_ding_event_price] kr."
+msgstr ""
+
+#: metatag:metatag_panels:ding_event_node_view:image_src
+msgctxt "metatag_panels:ding_event_node_view:image_src"
+msgid "[node:field_ding_event_title_image]"
+msgstr ""
+
+#: metatag:metatag_panels:ding_event_node_view:title
+msgctxt "metatag_panels:ding_event_node_view:title"
+msgid "[node:title] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view_panel_context:description
+msgctxt "metatag_panels:node_view_panel_context:description"
+msgid "[node:field_ding_news_lead]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view_panel_context:image_src
+msgctxt "metatag_panels:node_view_panel_context:image_src"
+msgid "[node:field_ding_news_title_image]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view_panel_context:title
+msgctxt "metatag_panels:node_view_panel_context:title"
+msgid "[node:title] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view__news-story-alternative-layout:title
+msgctxt "metatag_panels:node_view__news-story-alternative-layout:title"
+msgid "[node:title] | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view__news-story-alternative-layout:description
+msgctxt "metatag_panels:node_view__news-story-alternative-layout:description"
+msgid "[node:field_ding_news_lead]"
+msgstr ""
+
+#: metatag:metatag_panels:node_view__news-story-alternative-layout:image_src
+msgctxt "metatag_panels:node_view__news-story-alternative-layout:image_src"
+msgid "[node:field_ding_news_title_image]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_events_library_panel_context:title
+msgctxt "metatag_panels:page_ding_events_library_panel_context:title"
+msgid "%slug:title | Events | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_events_panel_context:title
+msgctxt "metatag_panels:page_ding_events_panel_context:title"
+msgid "Events | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_groups_news_panel_context:title
+msgctxt "metatag_panels:page_ding_groups_news_panel_context:title"
+msgid "%gid:title | News | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_groups_news_panel_context:title
+msgctxt "metatag_panels:page_ding_groups_news_panel_context:title"
+msgid "[current-page:title] | News | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_libraries_panel_context:title
+msgctxt "metatag_panels:page_ding_libraries_panel_context:title"
+msgid "Libraries | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_library_about_panel_context:title
+msgctxt "metatag_panels:page_ding_library_about_panel_context:title"
+msgid "%slug:title | About | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_news_library_panel_context:title
+msgctxt "metatag_panels:page_ding_news_library_panel_context:title"
+msgid "%slug:title | News | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_news_panel_context:title
+msgctxt "metatag_panels:page_ding_news_panel_context:title"
+msgid "News | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_ding_staff_library_panel_context:title
+msgctxt "metatag_panels:page_ding_staff_library_panel_context:title"
+msgid "%slug:title | Departments and Staff | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_groups_events_panel_context:title
+msgctxt "metatag_panels:page_groups_events_panel_context:title"
+msgid "%gid:title | Events | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_groups_listing_panel_context:title
+msgctxt "metatag_panels:page_groups_listing_panel_context:title"
+msgid "Themes | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_bookmark_panel_context:title
+msgctxt "metatag_panels:page_user_bookmark_panel_context:title"
+msgid "[current-user:name] | Bookmarks | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_checklist__panel_context_a822c330-2715-4325-b2b0-6c8012f3c3bf:title
+msgctxt "metatag_panels:page_user_checklist__panel_context_a822c330-2715-4325-b2b0-6c8012f3c3bf:title"
+msgid "My checklist | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_debts_panel_context:title
+msgctxt "metatag_panels:page_user_debts_panel_context:title"
+msgid "Debts | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_debts_panel_context:title
+msgctxt "metatag_panels:page_user_debts_panel_context:title"
+msgid "[current-user:name] | Debts | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_followed_searches__panel_context_4d18da20-ecc4-481d-b12f-b399e229d7a1:title
+msgctxt "metatag_panels:page_user_followed_searches__panel_context_4d18da20-ecc4-481d-b12f-b399e229d7a1:title"
+msgid "My searches | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_loans_overdue_panel_context:title
+msgctxt "metatag_panels:page_user_loans_overdue_panel_context:title"
+msgid "Overdue loans | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_loans_overdue__panel_context_721ef93b-13f9-4644-8d35-ff9aaab01be6:title
+msgctxt "metatag_panels:page_user_loans_overdue__panel_context_721ef93b-13f9-4644-8d35-ff9aaab01be6:title"
+msgid "Overdue loans | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_loans_panel_context:title
+msgctxt "metatag_panels:page_user_loans_panel_context:title"
+msgid "Loans | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_loans_panel_context:title
+msgctxt "metatag_panels:page_user_loans_panel_context:title"
+msgid "[current-user:name] | Loans | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_my_library_panel:title
+msgctxt "metatag_panels:page_user_my_library_panel:title"
+msgid "My personal library | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_reservations_panel_context:title
+msgctxt "metatag_panels:page_user_reservations_panel_context:title"
+msgid "Reservations | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_reservations_panel_context:title
+msgctxt "metatag_panels:page_user_reservations_panel_context:title"
+msgid "[current-user:name] | Reservations | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:page_user_reservations_ready__panel_context_f0f7c0f4-630a-4389-a7b5-2537a3654bc1:title
+msgctxt "metatag_panels:page_user_reservations_ready__panel_context_f0f7c0f4-630a-4389-a7b5-2537a3654bc1:title"
+msgid "Reservations | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:pm_existing_pages_user_contact__panel_context_f66fc201-c74c-4583-8bd6-09f6c4daf4e3:title
+msgctxt "metatag_panels:pm_existing_pages_user_contact__panel_context_f66fc201-c74c-4583-8bd6-09f6c4daf4e3:title"
+msgid "User contact | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:pm_existing_pages_user_roles__panel_context_476607c1-82ae-4143-9af9-dac2dd65bea3:title
+msgctxt "metatag_panels:pm_existing_pages_user_roles__panel_context_476607c1-82ae-4143-9af9-dac2dd65bea3:title"
+msgid "User roles | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:pm_existing_pages_user_scheduler__panel_context_7dfa9868-78e1-4a1e-826e-c593533053b9:title
+msgctxt "metatag_panels:pm_existing_pages_user_scheduler__panel_context_7dfa9868-78e1-4a1e-826e-c593533053b9:title"
+msgid "User scheduler | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:pm_existing_pages_user_shortcuts__panel_context_d2f33b14-94b1-42b8-baf0-6d72b3bd48a0:title
+msgctxt "metatag_panels:pm_existing_pages_user_shortcuts__panel_context_d2f33b14-94b1-42b8-baf0-6d72b3bd48a0:title"
+msgid "User shortcuts | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:search_node_panel_context:title
+msgctxt "metatag_panels:search_node_panel_context:title"
+msgid "Search Content | %keywords:html_safe | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:search_ting_search_panel_context:title
+msgctxt "metatag_panels:search_ting_search_panel_context:title"
+msgid "Search Ting | %keywords:html_safe | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:ting_collection_panel_context:title
+msgctxt "metatag_panels:ting_collection_panel_context:title"
+msgid ""
+"Ting collection | %ting_collection:title_full | "
+"[current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:ting_object_panel_context:title
+msgctxt "metatag_panels:ting_object_panel_context:title"
+msgid ""
+"Ting object | %ting_object:title_full | "
+"[current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_edit_panel_context:title
+msgctxt "metatag_panels:user_edit_panel_context:title"
+msgid "Edit profile | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_edit_panel_context:title
+msgctxt "metatag_panels:user_edit_panel_context:title"
+msgid "[current-user:name] | Edit profile | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_edit_panel_context_2:title
+msgctxt "metatag_panels:user_edit_panel_context_2:title"
+msgid "Edit profile | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_edit_panel_context_2:title
+msgctxt "metatag_panels:user_edit_panel_context_2:title"
+msgid "[current-user:name] | Edit profile | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_view_panel_context:title
+msgctxt "metatag_panels:user_view_panel_context:title"
+msgid "User profile | [current-page:pager][site:name]"
+msgstr ""
+
+#: metatag:metatag_panels:user_view_panel_context_2:title
+msgctxt "metatag_panels:user_view_panel_context_2:title"
+msgid "User profile | [current-page:pager][site:name]"
+msgstr ""
+
