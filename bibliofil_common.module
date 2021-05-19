@@ -3,3 +3,49 @@
  * @file
  * Drupal needs this blank file.
  */
+
+/**
+ * Define site permissions in code.
+ *
+ * @param $role
+ *   The role for which the permissions are being requested.
+ *
+ * @return array
+ *   An array defining all the permissions for the site.
+ */
+function bibliofil_common_secure_permissions($role) {
+  $permissions = [
+    // Permissions to disable even when no roles are assigned to them.
+    // You can use this to disable modification of permissions which is set to false for all roles.
+    0 => [
+    ],
+    'administrators' => [
+      'administer bpi',
+      'administer ding ipe filter',
+      'administer ding provider',
+      'administer ding toggle format',
+      'administer fe promote',
+      'administer news settings',
+      'administer search',
+      'administer site configuration',
+      'administer themes',
+      'administer ting settings',
+      'administer user settings',
+      'dynamic background configure default',
+      'dynamic background upload default',
+      'dynamic backgrounds css callback',
+      'dynamic backgrounds set default',
+      'dynamic backgrounds weight',
+      'view files',
+    ],
+    'anonymous user' => [
+      'view files',
+    ],
+    'authenticated user' => [
+      'view files',
+    ],
+  ];
+  if (isset($permissions[$role])) {
+    return $permissions[$role];
+  }
+}
