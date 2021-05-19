@@ -1,0 +1,139 @@
+# Norwegian Bokmål translation of Fredrikstad bibliotek
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-04-15 18:10+0200\n"
+"PO-Revision-Date: 2021-04-15 18:10+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: contact:category:10:category
+msgctxt "category:10:category"
+msgid "Pinkode"
+msgstr ""
+
+#: contact:category:11:category
+msgctxt "category:11:category"
+msgid "Regninger"
+msgstr ""
+
+#: contact:category:14:category
+msgctxt "category:14:category"
+msgid "Books, CDs etc."
+msgstr ""
+
+#: contact:category:15:category
+msgctxt "category:15:category"
+msgid "Invoices"
+msgstr ""
+
+#: contact:category:16:category
+msgctxt "category:16:category"
+msgid "Library card"
+msgstr ""
+
+#: contact:category:17:category
+msgctxt "category:17:category"
+msgid "Net media"
+msgstr ""
+
+#: contact:category:18:category
+msgctxt "category:18:category"
+msgid "Overdue notices"
+msgstr ""
+
+#: contact:category:19:category
+msgctxt "category:19:category"
+msgid "PIN code"
+msgstr ""
+
+#: contact:category:20:category
+msgctxt "category:20:category"
+msgid "Purchase suggestions"
+msgstr ""
+
+#: contact:category:21:category
+msgctxt "category:21:category"
+msgid "Renewing materials"
+msgstr ""
+
+#: contact:category:22:category
+msgctxt "category:22:category"
+msgid "Returning materials"
+msgstr ""
+
+#: contact:category:23:category
+msgctxt "category:23:category"
+msgid "Website"
+msgstr ""
+
+#: contact:category:24:category
+msgctxt "category:24:category"
+msgid "Ubuntu - user PCs"
+msgstr ""
+
+#: contact:category:25:category
+msgctxt "category:25:category"
+msgid "None of the above"
+msgstr ""
+
+#: contact:category:6:category
+msgctxt "category:6:category"
+msgid "Hjemmesiden"
+msgstr ""
+
+#: contact:category:7:category
+msgctxt "category:7:category"
+msgid "Lånerkort"
+msgstr ""
+
+#: contact:category:12:category
+msgctxt "category:12:category"
+msgid "Ubuntu - publikumspc'ere"
+msgstr "Ubuntu - publikumspc'er"
+
+#: contact:category:13:category
+msgctxt "category:13:category"
+msgid "Ingen af overstående"
+msgstr "Ingen av ovenstående"
+
+#: contact:category:1:category
+msgctxt "category:1:category"
+msgid "Aflevering"
+msgstr "Avlevering"
+
+#: contact:category:2:category
+msgctxt "category:2:category"
+msgid "Bøger, CD'ere m.m."
+msgstr "Bøker, CD'er etc."
+
+#: contact:category:3:category
+msgctxt "category:3:category"
+msgid "Fornyelse af materialer"
+msgstr "Fornyelse av materialer"
+
+#: contact:category:4:category
+msgctxt "category:4:category"
+msgid "Forslag til indkøb"
+msgstr "Forslag til innkjøp"
+
+#: contact:category:5:category
+msgctxt "category:5:category"
+msgid "Hjemkaldelser"
+msgstr "Hjemkallelser"
+
+#: contact:category:8:category
+msgctxt "category:8:category"
+msgid "Mobilsite"
+msgstr "Mobilside"
+
+#: contact:category:9:category
+msgctxt "category:9:category"
+msgid "Netmedier"
+msgstr "Nettmedier"
+

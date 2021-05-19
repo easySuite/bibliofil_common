@@ -1,0 +1,1923 @@
+# Norwegian Bokmål translation of Fredrikstad bibliotek
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-04-15 18:10+0200\n"
+"PO-Revision-Date: 2021-04-15 18:10+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: field:comment_body:comment_node_ding_campaign:label
+msgctxt "comment_body:comment_node_ding_campaign:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_campaign_plus:label
+msgctxt "comment_body:comment_node_ding_campaign_plus:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_eresource:label
+msgctxt "comment_body:comment_node_ding_eresource:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_event:label
+msgctxt "comment_body:comment_node_ding_event:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_group:label
+msgctxt "comment_body:comment_node_ding_group:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_library:label
+msgctxt "comment_body:comment_node_ding_library:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_news:label
+msgctxt "comment_body:comment_node_ding_news:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_page:label
+msgctxt "comment_body:comment_node_ding_page:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_ding_rolltab:label
+msgctxt "comment_body:comment_node_ding_rolltab:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_new_materials:label
+msgctxt "comment_body:comment_node_new_materials:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_panel:label
+msgctxt "comment_body:comment_node_panel:label"
+msgid "Comment"
+msgstr ""
+
+#: field:comment_body:comment_node_webform:label
+msgctxt "comment_body:comment_node_webform:label"
+msgid "Comment"
+msgstr ""
+
+#: field:ding_availability_holdings:ting_object:label
+msgctxt "ding_availability_holdings:ting_object:label"
+msgid "Holdings information"
+msgstr ""
+
+#: field:ding_campaign_group_ref:ding_campaign:label
+msgctxt "ding_campaign_group_ref:ding_campaign:label"
+msgid "Libraries and Groups"
+msgstr ""
+
+#: field:ding_entity_buttons:ting_object:label
+msgctxt "ding_entity_buttons:ting_object:label"
+msgid "Action buttons"
+msgstr ""
+
+#: field:ding_entity_rating_action:ting_object:label
+msgctxt "ding_entity_rating_action:ting_object:label"
+msgid "Rate this"
+msgstr ""
+
+#: field:ding_periodical_issues:ting_object:label
+msgctxt "ding_periodical_issues:ting_object:label"
+msgid "Issue list for periodicals."
+msgstr ""
+
+#: field:ding_periodical_issues:ting_object:label
+msgctxt "ding_periodical_issues:ting_object:label"
+msgid "Issues"
+msgstr ""
+
+#: field:endpoints:ting_reference:label
+msgctxt "endpoints:ting_reference:label"
+msgid "endpoints"
+msgstr ""
+
+#: field:field_alma_absent_id:provider_alma:label
+msgctxt "field_alma_absent_id:provider_alma:label"
+msgid "Absent id"
+msgstr ""
+
+#: field:field_alma_city:provider_alma:label
+msgctxt "field_alma_city:provider_alma:label"
+msgid "City"
+msgstr ""
+
+#: field:field_alma_full_name:provider_alma:label
+msgctxt "field_alma_full_name:provider_alma:label"
+msgid "Full name"
+msgstr ""
+
+#: field:field_alma_interest_period:#allowed_values:180
+msgctxt "field_alma_interest_period:#allowed_values:180"
+msgid "6 months"
+msgstr ""
+
+#: field:field_alma_interest_period:#allowed_values:30
+msgctxt "field_alma_interest_period:#allowed_values:30"
+msgid "1 måned"
+msgstr ""
+
+#: field:field_alma_interest_period:#allowed_values:360
+msgctxt "field_alma_interest_period:#allowed_values:360"
+msgid "12 months"
+msgstr ""
+
+#: field:field_alma_interest_period:#allowed_values:60
+msgctxt "field_alma_interest_period:#allowed_values:60"
+msgid "2 months"
+msgstr ""
+
+#: field:field_alma_interest_period:#allowed_values:90
+msgctxt "field_alma_interest_period:#allowed_values:90"
+msgid "3 months"
+msgstr ""
+
+#: field:field_alma_interest_period:provider_alma:label
+msgctxt "field_alma_interest_period:provider_alma:label"
+msgid "Interest period"
+msgstr ""
+
+#: field:field_alma_mail:provider_alma:description
+msgctxt "field_alma_mail:provider_alma:description"
+msgid ""
+"The e-mail address is not made public and will only be used if you "
+"wish to receive certain news or notifications by e-mail."
+msgstr ""
+
+#: field:field_alma_mail:provider_alma:label
+msgctxt "field_alma_mail:provider_alma:label"
+msgid "E-mail"
+msgstr ""
+
+#: field:field_alma_mobile_phone:provider_alma:label
+msgctxt "field_alma_mobile_phone:provider_alma:label"
+msgid "Phone"
+msgstr ""
+
+#: field:field_alma_phone_id:provider_alma:label
+msgctxt "field_alma_phone_id:provider_alma:label"
+msgid "Phone id"
+msgstr ""
+
+#: field:field_alma_postal_code:provider_alma:label
+msgctxt "field_alma_postal_code:provider_alma:label"
+msgid "Postal code"
+msgstr ""
+
+#: field:field_alma_preferred_branch:provider_alma:label
+msgctxt "field_alma_preferred_branch:provider_alma:label"
+msgid "Preferred branch"
+msgstr ""
+
+#: field:field_alma_reservation_pause:provider_alma:description
+msgctxt "field_alma_reservation_pause:provider_alma:description"
+msgid "Set your reservations on pause."
+msgstr ""
+
+#: field:field_alma_reservation_pause:provider_alma:label
+msgctxt "field_alma_reservation_pause:provider_alma:label"
+msgid "Reservation pause"
+msgstr ""
+
+#: field:field_alma_sms:provider_alma:label
+msgctxt "field_alma_sms:provider_alma:label"
+msgid "SMS"
+msgstr ""
+
+#: field:field_alma_sms_id:provider_alma:label
+msgctxt "field_alma_sms_id:provider_alma:label"
+msgid "SMS id"
+msgstr ""
+
+#: field:field_alma_street_name:provider_alma:label
+msgctxt "field_alma_street_name:provider_alma:label"
+msgid "Street name"
+msgstr ""
+
+#: field:field_alternate_search_string:smart_search_string:label
+msgctxt "field_alternate_search_string:smart_search_string:label"
+msgid "Alternative search string"
+msgstr ""
+
+#: field:field_alternate_search_string:smart_search_string:description
+msgctxt "field_alternate_search_string:smart_search_string:description"
+msgid "Search string sent to the well"
+msgstr ""
+
+#: field:field_bpi_workflow:ding_news:label
+msgctxt "field_bpi_workflow:ding_news:label"
+msgid "BPI workflow"
+msgstr ""
+
+#: field:field_camp_behavior:ding_campaign:description
+msgctxt "field_camp_behavior:ding_campaign:description"
+msgid "If set, the clicked campaign will open in a new tab/window"
+msgstr ""
+
+#: field:field_camp_behavior:ding_campaign:label
+msgctxt "field_camp_behavior:ding_campaign:label"
+msgid "Open in new tab/window"
+msgstr ""
+
+#: field:field_camp_image:ding_campaign:label
+msgctxt "field_camp_image:ding_campaign:label"
+msgid "Campaign image"
+msgstr ""
+
+#: field:field_camp_link:ding_campaign:label
+msgctxt "field_camp_link:ding_campaign:label"
+msgid "Campaign link"
+msgstr ""
+
+#: field:field_camp_settings:#allowed_values:full
+msgctxt "field_camp_settings:#allowed_values:full"
+msgid "WYSIWYG"
+msgstr ""
+
+#: field:field_camp_settings:#allowed_values:image
+msgctxt "field_camp_settings:#allowed_values:image"
+msgid "Image"
+msgstr ""
+
+#: field:field_camp_settings:#allowed_values:plain
+msgctxt "field_camp_settings:#allowed_values:plain"
+msgid "Plain text"
+msgstr ""
+
+#: field:field_camp_settings:ding_campaign:label
+msgctxt "field_camp_settings:ding_campaign:label"
+msgid "Campaign settings"
+msgstr ""
+
+#: field:field_camp_text_full:ding_campaign:label
+msgctxt "field_camp_text_full:ding_campaign:label"
+msgid "Campaign text"
+msgstr ""
+
+#: field:field_camp_text_plain:ding_campaign:label
+msgctxt "field_camp_text_plain:ding_campaign:label"
+msgid "Campaign text"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-1
+msgctxt "field_camp_weight:#allowed_values:-1"
+msgid "-1"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-10
+msgctxt "field_camp_weight:#allowed_values:-10"
+msgid "-10"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-2
+msgctxt "field_camp_weight:#allowed_values:-2"
+msgid "-2"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-3
+msgctxt "field_camp_weight:#allowed_values:-3"
+msgid "-3"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-4
+msgctxt "field_camp_weight:#allowed_values:-4"
+msgid "-4"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-5
+msgctxt "field_camp_weight:#allowed_values:-5"
+msgid "-5"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-6
+msgctxt "field_camp_weight:#allowed_values:-6"
+msgid "-6"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-7
+msgctxt "field_camp_weight:#allowed_values:-7"
+msgid "-7"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-8
+msgctxt "field_camp_weight:#allowed_values:-8"
+msgid "-8"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:-9
+msgctxt "field_camp_weight:#allowed_values:-9"
+msgid "-9"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:1
+msgctxt "field_camp_weight:#allowed_values:1"
+msgid "1"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:10
+msgctxt "field_camp_weight:#allowed_values:10"
+msgid "10"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:2
+msgctxt "field_camp_weight:#allowed_values:2"
+msgid "2"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:3
+msgctxt "field_camp_weight:#allowed_values:3"
+msgid "3"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:4
+msgctxt "field_camp_weight:#allowed_values:4"
+msgid "4"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:5
+msgctxt "field_camp_weight:#allowed_values:5"
+msgid "5"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:6
+msgctxt "field_camp_weight:#allowed_values:6"
+msgid "6"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:7
+msgctxt "field_camp_weight:#allowed_values:7"
+msgid "7"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:8
+msgctxt "field_camp_weight:#allowed_values:8"
+msgid "8"
+msgstr ""
+
+#: field:field_camp_weight:#allowed_values:9
+msgctxt "field_camp_weight:#allowed_values:9"
+msgid "9"
+msgstr ""
+
+#: field:field_camp_weight:ding_campaign:label
+msgctxt "field_camp_weight:ding_campaign:label"
+msgid "Weight"
+msgstr ""
+
+#: field:field_custom_boost_values_p:smart_search_string:label
+msgctxt "field_custom_boost_values_p:smart_search_string:label"
+msgid "Boost values"
+msgstr ""
+
+#: field:field_ding_campaign_plus_style:#allowed_values:box
+msgctxt "field_ding_campaign_plus_style:#allowed_values:box"
+msgid "Boks"
+msgstr ""
+
+#: field:field_ding_campaign_plus_style:#allowed_values:ribbon
+msgctxt "field_ding_campaign_plus_style:#allowed_values:ribbon"
+msgid "Bånd"
+msgstr ""
+
+#: field:field_ding_campaign_plus_type:ding_campaign_plus:label
+msgctxt "field_ding_campaign_plus_type:ding_campaign_plus:label"
+msgid "Type"
+msgstr ""
+
+#: field:field_ding_eresource_link:ding_eresource:label
+msgctxt "field_ding_eresource_link:ding_eresource:label"
+msgid "Link"
+msgstr ""
+
+#: field:field_ding_event_comment:comment_node_ding_event:label
+msgctxt "field_ding_event_comment:comment_node_ding_event:label"
+msgid "Comment"
+msgstr ""
+
+#: field:field_ding_event_date:ding_event:label
+msgctxt "field_ding_event_date:ding_event:label"
+msgid "Date"
+msgstr ""
+
+#: field:field_ding_event_price:ding_event:description
+msgctxt "field_ding_event_price:ding_event:description"
+msgid ""
+"Events show the value ”Free” if text field is set to 0.\n"
+"Tip: Indicate different ticket prices for more than one audience group "
+"by entering a lowest – highest price in text field fx. “30 - 50”"
+msgstr ""
+
+#: field:field_ding_interaction_access:#allowed_values:anonymous
+msgctxt "field_ding_interaction_access:#allowed_values:anonymous"
+msgid "Is Anonymous"
+msgstr ""
+
+#: field:field_ding_interaction_access:#allowed_values:none
+msgctxt "field_ding_interaction_access:#allowed_values:none"
+msgid "No access check"
+msgstr ""
+
+#: field:field_ding_interaction_access:#allowed_values:provider
+msgctxt "field_ding_interaction_access:#allowed_values:provider"
+msgid "Is provider"
+msgstr ""
+
+#: field:field_ding_interaction_access:ding_interaction:label
+msgctxt "field_ding_interaction_access:ding_interaction:label"
+msgid "Ding Interaction Access"
+msgstr ""
+
+#: field:field_ding_interaction_body:ding_interaction:label
+msgctxt "field_ding_interaction_body:ding_interaction:label"
+msgid "Ding Interaction Body"
+msgstr ""
+
+#: field:field_ding_interaction_links:ding_interaction:label
+msgctxt "field_ding_interaction_links:ding_interaction:label"
+msgid "Ding Interaction Links"
+msgstr ""
+
+#: field:field_ding_interaction_status:#allowed_values:1
+msgctxt "field_ding_interaction_status:#allowed_values:1"
+msgid "1"
+msgstr ""
+
+#: field:field_ding_interaction_status:ding_interaction:label
+msgctxt "field_ding_interaction_status:ding_interaction:label"
+msgid "Enabled"
+msgstr ""
+
+#: field:field_ding_library_geocode:ding_library:label
+msgctxt "field_ding_library_geocode:ding_library:label"
+msgid "Geocode"
+msgstr ""
+
+#: field:field_ding_library_list_image:ding_library:label
+msgctxt "field_ding_library_list_image:ding_library:label"
+msgid "List image"
+msgstr ""
+
+#: field:field_ding_library_mail:ding_library:label
+msgctxt "field_ding_library_mail:ding_library:label"
+msgid "E-mail"
+msgstr ""
+
+#: field:field_ding_list_in_public_lists:ting_object:label
+msgctxt "field_ding_list_in_public_lists:ting_object:label"
+msgid "Material in public lists"
+msgstr ""
+
+#: field:field_ding_list_status:#allowed_values:private
+msgctxt "field_ding_list_status:#allowed_values:private"
+msgid "Private - The list is only accesible to you"
+msgstr ""
+
+#: field:field_ding_list_status:#allowed_values:private
+msgctxt "field_ding_list_status:#allowed_values:private"
+msgid "Private - The list is only accessible to you"
+msgstr ""
+
+#: field:field_ding_list_status:#allowed_values:public
+msgctxt "field_ding_list_status:#allowed_values:public"
+msgid "Public - Anybody can view your list from the public link"
+msgstr ""
+
+#: field:field_ding_list_status:#allowed_values:shared
+msgctxt "field_ding_list_status:#allowed_values:shared"
+msgid "Shared - Users with the secret link can view or edit your list"
+msgstr ""
+
+#: field:field_ding_news_body:ding_news:label
+msgctxt "field_ding_news_body:ding_news:label"
+msgid "Body"
+msgstr ""
+
+#: field:field_ding_news_comment_body:comment_node_ding_news:label
+msgctxt "field_ding_news_comment_body:comment_node_ding_news:label"
+msgid "Comment"
+msgstr ""
+
+#: field:field_ding_news_tags:ding_news:label
+msgctxt "field_ding_news_tags:ding_news:label"
+msgid "Tags"
+msgstr ""
+
+#: field:field_ding_page_body:ding_page:label
+msgctxt "field_ding_page_body:ding_page:label"
+msgid "Body"
+msgstr ""
+
+#: field:field_ding_paragraphs_box_text:ding_paragraphs_text_box:label
+msgctxt "field_ding_paragraphs_box_text:ding_paragraphs_text_box:label"
+msgid "Box text"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:#allowed_values:full_width
+msgctxt "field_ding_paragraphs_display:#allowed_values:full_width"
+msgid "Full width"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:#allowed_values:half_right
+msgctxt "field_ding_paragraphs_display:#allowed_values:half_right"
+msgid "1/2 width (aligned right)"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:#allowed_values:half_left
+msgctxt "field_ding_paragraphs_display:#allowed_values:half_left"
+msgid "1/2 width (aligned left)"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:ding_paragraphs_image:label
+msgctxt "field_ding_paragraphs_display:ding_paragraphs_image:label"
+msgid "Show as"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:ding_paragraphs_image_and_text:label
+msgctxt "field_ding_paragraphs_display:ding_paragraphs_image_and_text:label"
+msgid "Show as"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:ding_paragraphs_single_material:label
+msgctxt "field_ding_paragraphs_display:ding_paragraphs_single_material:label"
+msgid "Show as"
+msgstr ""
+
+#: field:field_ding_paragraphs_display:ding_paragraphs_text_box:label
+msgctxt "field_ding_paragraphs_display:ding_paragraphs_text_box:label"
+msgid "Show as"
+msgstr ""
+
+#: field:field_ding_paragraphs_image:ding_paragraphs_image:label
+msgctxt "field_ding_paragraphs_image:ding_paragraphs_image:label"
+msgid "Image"
+msgstr ""
+
+#: field:field_ding_paragraphs_image:ding_paragraphs_image:description
+msgctxt "field_ding_paragraphs_image:ding_paragraphs_image:description"
+msgid ""
+"Images are scaled to a width of 900px.\n"
+"The recommended minimum width of this image is 900px to ensure images "
+"are not upscaled when displayed."
+msgstr ""
+
+#: field:field_ding_paragraphs_image:ding_paragraphs_image_and_text:label
+msgctxt "field_ding_paragraphs_image:ding_paragraphs_image_and_text:label"
+msgid "Image"
+msgstr ""
+
+#: field:field_ding_paragraphs_image:ding_paragraphs_image_and_text:description
+msgctxt "field_ding_paragraphs_image:ding_paragraphs_image_and_text:description"
+msgid ""
+"Images are scaled to a width of 900px.\n"
+"The recommended minimum width of this image is 900px to ensure images "
+"are not upscaled when displayed."
+msgstr ""
+
+#: field:field_ding_paragraphs_material:ding_paragraphs_carousel:label
+msgctxt "field_ding_paragraphs_material:ding_paragraphs_carousel:label"
+msgid "Materiale"
+msgstr ""
+
+#: field:field_ding_paragraphs_material:ding_paragraphs_material_list:label
+msgctxt "field_ding_paragraphs_material:ding_paragraphs_material_list:label"
+msgid "Materiale"
+msgstr ""
+
+#: field:field_ding_paragraphs_position:#allowed_values:image_top
+msgctxt "field_ding_paragraphs_position:#allowed_values:image_top"
+msgid "Image top"
+msgstr ""
+
+#: field:field_ding_paragraphs_position:#allowed_values:image_bottom
+msgctxt "field_ding_paragraphs_position:#allowed_values:image_bottom"
+msgid "Image bottom"
+msgstr ""
+
+#: field:field_ding_paragraphs_position:#allowed_values:ting_object_left
+msgctxt "field_ding_paragraphs_position:#allowed_values:ting_object_left"
+msgid "Image left"
+msgstr ""
+
+#: field:field_ding_paragraphs_position:ding_paragraphs_image_and_text:label
+msgctxt "field_ding_paragraphs_position:ding_paragraphs_image_and_text:label"
+msgid "Image position"
+msgstr ""
+
+#: field:field_ding_paragraphs_single_mat:ding_paragraphs_single_material:label
+msgctxt "field_ding_paragraphs_single_mat:ding_paragraphs_single_material:label"
+msgid "Materiale"
+msgstr ""
+
+#: field:field_ding_paragraphs_text:ding_paragraphs_image_and_text:label
+msgctxt "field_ding_paragraphs_text:ding_paragraphs_image_and_text:label"
+msgid "Text"
+msgstr ""
+
+#: field:field_ding_paragraphs_text:ding_paragraphs_text:label
+msgctxt "field_ding_paragraphs_text:ding_paragraphs_text:label"
+msgid "Text"
+msgstr ""
+
+#: field:field_ding_sections_image:section:label
+msgctxt "field_ding_sections_image:section:label"
+msgid "Content image."
+msgstr ""
+
+#: field:field_ding_staff_department:ding_staff_profile:label
+msgctxt "field_ding_staff_department:ding_staff_profile:label"
+msgid "Department"
+msgstr ""
+
+#: field:field_ding_staff_department:staff:label
+msgctxt "field_ding_staff_department:staff:label"
+msgid "Department"
+msgstr ""
+
+#: field:field_ding_staff_description:ding_staff_profile:label
+msgctxt "field_ding_staff_description:ding_staff_profile:label"
+msgid "Description"
+msgstr ""
+
+#: field:field_ding_staff_description:staff:label
+msgctxt "field_ding_staff_description:staff:label"
+msgid "Description"
+msgstr ""
+
+#: field:field_ding_staff_email:ding_staff_profile:label
+msgctxt "field_ding_staff_email:ding_staff_profile:label"
+msgid "Email"
+msgstr ""
+
+#: field:field_ding_staff_email:staff:label
+msgctxt "field_ding_staff_email:staff:label"
+msgid "Email"
+msgstr ""
+
+#: field:field_ding_staff_forename:ding_staff_profile:label
+msgctxt "field_ding_staff_forename:ding_staff_profile:label"
+msgid "Forename"
+msgstr ""
+
+#: field:field_ding_staff_forename:staff:label
+msgctxt "field_ding_staff_forename:staff:label"
+msgid "Forename"
+msgstr ""
+
+#: field:field_ding_staff_image:staff:label
+msgctxt "field_ding_staff_image:staff:label"
+msgid "Image"
+msgstr ""
+
+#: field:field_ding_staff_library:staff:label
+msgctxt "field_ding_staff_library:staff:label"
+msgid "Library"
+msgstr ""
+
+#: field:field_ding_staff_phone:ding_staff_profile:label
+msgctxt "field_ding_staff_phone:ding_staff_profile:label"
+msgid "Phone"
+msgstr ""
+
+#: field:field_ding_staff_phone:staff:label
+msgctxt "field_ding_staff_phone:staff:label"
+msgid "Phone"
+msgstr ""
+
+#: field:field_ding_staff_position:ding_staff_profile:label
+msgctxt "field_ding_staff_position:ding_staff_profile:label"
+msgid "Position"
+msgstr ""
+
+#: field:field_ding_staff_position:staff:label
+msgctxt "field_ding_staff_position:staff:label"
+msgid "Position"
+msgstr ""
+
+#: field:field_ding_staff_surname:ding_staff_profile:label
+msgctxt "field_ding_staff_surname:ding_staff_profile:label"
+msgid "Surname"
+msgstr ""
+
+#: field:field_ding_staff_surname:staff:label
+msgctxt "field_ding_staff_surname:staff:label"
+msgid "Surname"
+msgstr ""
+
+#: field:field_ding_staff_work_areas:ding_staff_profile:description
+msgctxt "field_ding_staff_work_areas:ding_staff_profile:description"
+msgid ""
+"A list of areas that you work in/with they should be separated by "
+"commas."
+msgstr ""
+
+#: field:field_ding_staff_work_areas:ding_staff_profile:label
+msgctxt "field_ding_staff_work_areas:ding_staff_profile:label"
+msgid "Work areas"
+msgstr ""
+
+#: field:field_ding_tabroll_ext:ding_rolltab:description
+msgctxt "field_ding_tabroll_ext:ding_rolltab:description"
+msgid ""
+"If you rather want an external link or a link to a menu, use this "
+"field. It will only be used if the previous link is empty."
+msgstr ""
+
+#: field:field_ding_tabroll_ext:ding_rolltab:label
+msgctxt "field_ding_tabroll_ext:ding_rolltab:label"
+msgid "Menu or external"
+msgstr ""
+
+#: field:field_ding_tabroll_image:ding_rolltab:label
+msgctxt "field_ding_tabroll_image:ding_rolltab:label"
+msgid "Image"
+msgstr ""
+
+#: field:field_ding_tabroll_lead:ding_rolltab:description
+msgctxt "field_ding_tabroll_lead:ding_rolltab:description"
+msgid "Short description displayed inside the tab in a overlay."
+msgstr ""
+
+#: field:field_ding_tabroll_lead:ding_rolltab:description
+msgctxt "field_ding_tabroll_lead:ding_rolltab:description"
+msgid "Short description displayed inside the tab in a overlay. "
+msgstr ""
+
+#: field:field_ding_tabroll_link:ding_rolltab:description
+msgctxt "field_ding_tabroll_link:ding_rolltab:description"
+msgid "Link to content that the tab should go to when clicked."
+msgstr ""
+
+#: field:field_ding_tabroll_link:ding_rolltab:label
+msgctxt "field_ding_tabroll_link:ding_rolltab:label"
+msgid "Link"
+msgstr ""
+
+#: field:field_event_organizer_link:event_organizer:label
+msgctxt "field_event_organizer_link:event_organizer:label"
+msgid "Event organizer link"
+msgstr ""
+
+#: field:field_fbs_address:provider_fbs:label
+msgctxt "field_fbs_address:provider_fbs:label"
+msgid "Address"
+msgstr ""
+
+#: field:field_fbs_interest_period:#allowed_values:180
+msgctxt "field_fbs_interest_period:#allowed_values:180"
+msgid "6 Months"
+msgstr ""
+
+#: field:field_fbs_interest_period:#allowed_values:30
+msgctxt "field_fbs_interest_period:#allowed_values:30"
+msgid "1 Month"
+msgstr ""
+
+#: field:field_fbs_interest_period:#allowed_values:360
+msgctxt "field_fbs_interest_period:#allowed_values:360"
+msgid "12 Months"
+msgstr ""
+
+#: field:field_fbs_interest_period:#allowed_values:60
+msgctxt "field_fbs_interest_period:#allowed_values:60"
+msgid "2 Months"
+msgstr ""
+
+#: field:field_fbs_interest_period:#allowed_values:90
+msgctxt "field_fbs_interest_period:#allowed_values:90"
+msgid "3 Months"
+msgstr ""
+
+#: field:field_fbs_interest_period:provider_fbs:label
+msgctxt "field_fbs_interest_period:provider_fbs:label"
+msgid "Interest period"
+msgstr ""
+
+#: field:field_fbs_mail_notification:provider_fbs:label
+msgctxt "field_fbs_mail_notification:provider_fbs:label"
+msgid "E-mail notifications"
+msgstr ""
+
+#: field:field_fbs_name:provider_fbs:label
+msgctxt "field_fbs_name:provider_fbs:label"
+msgid "Name"
+msgstr ""
+
+#: field:field_fbs_on_hold:provider_fbs:label
+msgctxt "field_fbs_on_hold:provider_fbs:label"
+msgid "On hold"
+msgstr ""
+
+#: field:field_fbs_phone:provider_fbs:label
+msgctxt "field_fbs_phone:provider_fbs:label"
+msgid "Phone"
+msgstr ""
+
+#: field:field_fbs_phone_notification:provider_fbs:label
+msgctxt "field_fbs_phone_notification:provider_fbs:label"
+msgid "Phone notifications"
+msgstr ""
+
+#: field:field_fbs_preferred_branch:provider_fbs:label
+msgctxt "field_fbs_preferred_branch:provider_fbs:label"
+msgid "Preferred branch"
+msgstr ""
+
+#: field:field_field_boost_value:custom_boost_values:label
+msgctxt "field_field_boost_value:custom_boost_values:label"
+msgid "Parameter"
+msgstr ""
+
+#: field:field_field_boost_weight:custom_boost_values:label
+msgctxt "field_field_boost_weight:custom_boost_values:label"
+msgid "Boost value"
+msgstr ""
+
+#: field:field_file_image_alt_text:image:description
+msgctxt "field_file_image_alt_text:image:description"
+msgid ""
+"Alternative text is used by screen readers, search engines, and when "
+"the image cannot be loaded. By adding alt text you improve "
+"accessibility and search engine optimization."
+msgstr ""
+
+#: field:field_file_image_alt_text:image:label
+msgctxt "field_file_image_alt_text:image:label"
+msgid "Alt Text"
+msgstr ""
+
+#: field:field_file_image_title_text:image:description
+msgctxt "field_file_image_title_text:image:description"
+msgid ""
+"Title text is used in the tool tip when a user hovers their mouse over "
+"the image. Adding title text makes it easier to understand the context "
+"of an image and improves usability."
+msgstr ""
+
+#: field:field_file_image_title_text:image:label
+msgctxt "field_file_image_title_text:image:label"
+msgid "Title Text"
+msgstr ""
+
+#: field:field_first_element:new_content:description
+msgctxt "field_first_element:new_content:description"
+msgid "The first element of the new items."
+msgstr ""
+
+#: field:field_first_element:new_content:label
+msgctxt "field_first_element:new_content:label"
+msgid "First element"
+msgstr ""
+
+#: field:field_last_check:new_content:description
+msgctxt "field_last_check:new_content:description"
+msgid "Enter the time of the last check for updates as a unix timestamp."
+msgstr ""
+
+#: field:field_last_check:new_content:label
+msgctxt "field_last_check:new_content:label"
+msgid "Last check"
+msgstr ""
+
+#: field:field_last_element:new_content:description
+msgctxt "field_last_element:new_content:description"
+msgid "The last element when we last did an update check."
+msgstr ""
+
+#: field:field_last_element:new_content:label
+msgctxt "field_last_element:new_content:label"
+msgid "Last element"
+msgstr ""
+
+#: field:field_list_id:new_content:label
+msgctxt "field_list_id:new_content:label"
+msgid "List ID"
+msgstr ""
+
+#: field:field_new_count:new_content:description
+msgctxt "field_new_count:new_content:description"
+msgid "Number of new elements."
+msgstr ""
+
+#: field:field_new_count:new_content:label
+msgctxt "field_new_count:new_content:label"
+msgid "New count"
+msgstr ""
+
+#: field:field_openruth_city:provider_openruth:label
+msgctxt "field_openruth_city:provider_openruth:label"
+msgid "City"
+msgstr ""
+
+#: field:field_openruth_full_name:provider_openruth:label
+msgctxt "field_openruth_full_name:provider_openruth:label"
+msgid "Full name"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:180
+msgctxt "field_openruth_interest_period:#allowed_values:180"
+msgid "6 months"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:30
+msgctxt "field_openruth_interest_period:#allowed_values:30"
+msgid "1 month"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:30
+msgctxt "field_openruth_interest_period:#allowed_values:30"
+msgid "1 måned"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:360
+msgctxt "field_openruth_interest_period:#allowed_values:360"
+msgid "12 months"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:60
+msgctxt "field_openruth_interest_period:#allowed_values:60"
+msgid "2 months"
+msgstr ""
+
+#: field:field_openruth_interest_period:#allowed_values:90
+msgctxt "field_openruth_interest_period:#allowed_values:90"
+msgid "3 months"
+msgstr ""
+
+#: field:field_openruth_interest_period:provider_openruth:description
+msgctxt "field_openruth_interest_period:provider_openruth:description"
+msgid "Period of interest - how long is a reservation valid for"
+msgstr ""
+
+#: field:field_openruth_interest_period:provider_openruth:label
+msgctxt "field_openruth_interest_period:provider_openruth:label"
+msgid "Interest period"
+msgstr ""
+
+#: field:field_openruth_mail:provider_openruth:label
+msgctxt "field_openruth_mail:provider_openruth:label"
+msgid "E-mail"
+msgstr ""
+
+#: field:field_openruth_mobile_phone:provider_openruth:description
+msgctxt "field_openruth_mobile_phone:provider_openruth:description"
+msgid "Your mobile phone"
+msgstr ""
+
+#: field:field_openruth_mobile_phone:provider_openruth:label
+msgctxt "field_openruth_mobile_phone:provider_openruth:label"
+msgid "Mobile phone"
+msgstr ""
+
+#: field:field_openruth_mobile_phone:provider_openruth:label
+msgctxt "field_openruth_mobile_phone:provider_openruth:label"
+msgid "Phone"
+msgstr ""
+
+#: field:field_openruth_postal_code:provider_openruth:label
+msgctxt "field_openruth_postal_code:provider_openruth:label"
+msgid "Postal code"
+msgstr ""
+
+#: field:field_openruth_preferred_branch:provider_openruth:label
+msgctxt "field_openruth_preferred_branch:provider_openruth:label"
+msgid "Preferred branch"
+msgstr ""
+
+#: field:field_openruth_reservation_pause:provider_openruth:label
+msgctxt "field_openruth_reservation_pause:provider_openruth:label"
+msgid "Reservation pause"
+msgstr ""
+
+#: field:field_openruth_reservation_pause:provider_openruth:description
+msgctxt "field_openruth_reservation_pause:provider_openruth:description"
+msgid "Set your reservations on pause."
+msgstr ""
+
+#: field:field_openruth_street_name:provider_openruth:label
+msgctxt "field_openruth_street_name:provider_openruth:label"
+msgid "Street name"
+msgstr ""
+
+#: field:field_place2book_tickets:ding_event:description
+msgctxt "field_place2book_tickets:ding_event:description"
+msgid "Placeholder for Place2book ticket information and/or order link"
+msgstr ""
+
+#: field:field_place2book_tickets:ding_event:label
+msgctxt "field_place2book_tickets:ding_event:label"
+msgid "Place2book Tickets"
+msgstr ""
+
+#: field:field_sss_boost_materials:smart_search_string:description
+msgctxt "field_sss_boost_materials:smart_search_string:description"
+msgid "Only materials part of the result can be promoted"
+msgstr ""
+
+#: field:field_sss_boost_materials:smart_search_string:label
+msgctxt "field_sss_boost_materials:smart_search_string:label"
+msgid "Promoted materials"
+msgstr ""
+
+#: field:field_sss_date:smart_search_string:label
+msgctxt "field_sss_date:smart_search_string:label"
+msgid "Date"
+msgstr ""
+
+#: field:field_sss_hits_per_month:smart_search_string:label
+msgctxt "field_sss_hits_per_month:smart_search_string:label"
+msgid "Searches - 30 days"
+msgstr ""
+
+#: field:field_sss_hits_per_year:smart_search_string:label
+msgctxt "field_sss_hits_per_year:smart_search_string:label"
+msgid "Searches - year"
+msgstr ""
+
+#: field:field_sss_hits_score:smart_search_string:description
+msgctxt "field_sss_hits_score:smart_search_string:description"
+msgid "Number of clicks"
+msgstr ""
+
+#: field:field_sss_hits_score:smart_search_string:label
+msgctxt "field_sss_hits_score:smart_search_string:label"
+msgid "Search score"
+msgstr ""
+
+#: field:field_sss_sort:smart_search_string:description
+msgctxt "field_sss_sort:smart_search_string:description"
+msgid "Forced sort - when chosen, all other settings are overridden"
+msgstr ""
+
+#: field:field_sss_sort:smart_search_string:label
+msgctxt "field_sss_sort:smart_search_string:label"
+msgid "Sort"
+msgstr ""
+
+#: field:field_state:new_content:label
+msgctxt "field_state:new_content:label"
+msgid "State"
+msgstr ""
+
+#: field:field_status:smart_search_string:description
+msgctxt "field_status:smart_search_string:description"
+msgid "Set date if planned"
+msgstr ""
+
+#: field:field_status:smart_search_string:label
+msgctxt "field_status:smart_search_string:label"
+msgid "Status"
+msgstr ""
+
+#: field:field_term_page:section:description
+msgctxt "field_term_page:section:description"
+msgid "Create a term page"
+msgstr ""
+
+#: field:field_term_page:section:label
+msgctxt "field_term_page:section:label"
+msgid "Term page"
+msgstr ""
+
+#: field:field_ting_oembed_oembed:ting_object:label
+msgctxt "field_ting_oembed_oembed:ting_object:label"
+msgid "Material content"
+msgstr ""
+
+#: field:group_group:#allowed_values:0
+msgctxt "group_group:#allowed_values:0"
+msgid "Hide related content on library page"
+msgstr ""
+
+#: field:group_group:#allowed_values:1
+msgctxt "group_group:#allowed_values:1"
+msgid "Show related content on library page"
+msgstr ""
+
+#: field:group_group:ding_group:description
+msgctxt "group_group:ding_group:description"
+msgid "Determine if this is an OG group."
+msgstr ""
+
+#: field:group_group:ding_group:label
+msgctxt "group_group:ding_group:label"
+msgid "Group"
+msgstr ""
+
+#: field:group_group:ding_library:description
+msgctxt "group_group:ding_library:description"
+msgid ""
+"If enabled, events and news can be marked as related to this library "
+"and will show up on its library page."
+msgstr ""
+
+#: field:group_group:ding_library:label
+msgctxt "group_group:ding_library:label"
+msgid "Show related content on library page"
+msgstr ""
+
+#: field:message_text:message_type:description
+msgctxt "message_text:message_type:description"
+msgid "This is the text of all messages of this type."
+msgstr ""
+
+#: field:message_text:message_type:label
+msgctxt "message_text:message_type:label"
+msgid "Message text"
+msgstr ""
+
+#: field:og_membership_request:og_membership_type_default:description
+msgctxt "og_membership_request:og_membership_type_default:description"
+msgid "This is the text a user may send to the group administrators."
+msgstr ""
+
+#: field:og_membership_request:og_membership_type_default:label
+msgctxt "og_membership_request:og_membership_type_default:label"
+msgid "Request message"
+msgstr ""
+
+#: field:og_user_node:user:label
+msgctxt "og_user_node:user:label"
+msgid "Group membership"
+msgstr ""
+
+#: field:ting_abstract:ting_object:label
+msgctxt "ting_abstract:ting_object:label"
+msgid "Ting object abstract"
+msgstr ""
+
+#: field:ting_author:ting_object:label
+msgctxt "ting_author:ting_object:label"
+msgid "Ting object author"
+msgstr ""
+
+#: field:ting_collection_types:ting_collection:label
+msgctxt "ting_collection_types:ting_collection:label"
+msgid "Ting collection object types"
+msgstr ""
+
+#: field:ting_cover:ting_object:label
+msgctxt "ting_cover:ting_object:label"
+msgid "Cover"
+msgstr ""
+
+#: field:ting_details_age:ting_object:label
+msgctxt "ting_details_age:ting_object:label"
+msgid "Age"
+msgstr ""
+
+#: field:ting_details_audience:ting_object:label
+msgctxt "ting_details_audience:ting_object:label"
+msgid "Audience"
+msgstr ""
+
+#: field:ting_details_classification:ting_object:label
+msgctxt "ting_details_classification:ting_object:label"
+msgid "Classification"
+msgstr ""
+
+#: field:ting_details_contributor:ting_object:label
+msgctxt "ting_details_contributor:ting_object:label"
+msgid "Contributor"
+msgstr ""
+
+#: field:ting_details_description:ting_object:label
+msgctxt "ting_details_description:ting_object:label"
+msgid "Description"
+msgstr ""
+
+#: field:ting_details_extent:ting_object:label
+msgctxt "ting_details_extent:ting_object:label"
+msgid "Extent"
+msgstr ""
+
+#: field:ting_details_format:ting_object:label
+msgctxt "ting_details_format:ting_object:label"
+msgid "Format"
+msgstr ""
+
+#: field:ting_details_genre:ting_object:label
+msgctxt "ting_details_genre:ting_object:label"
+msgid "Genre"
+msgstr ""
+
+#: field:ting_details_isbn:ting_object:label
+msgctxt "ting_details_isbn:ting_object:label"
+msgid "ISBN no."
+msgstr ""
+
+#: field:ting_details_ispartof:ting_object:label
+msgctxt "ting_details_ispartof:ting_object:label"
+msgid "Available in"
+msgstr ""
+
+#: field:ting_details_language:ting_object:label
+msgctxt "ting_details_language:ting_object:label"
+msgid "Language"
+msgstr ""
+
+#: field:ting_details_musician:ting_object:label
+msgctxt "ting_details_musician:ting_object:label"
+msgid "Musician"
+msgstr ""
+
+#: field:ting_details_pegi:ting_object:label
+msgctxt "ting_details_pegi:ting_object:label"
+msgid "Pegi mark"
+msgstr ""
+
+#: field:ting_details_publisher:ting_object:label
+msgctxt "ting_details_publisher:ting_object:label"
+msgid "Publisher"
+msgstr ""
+
+#: field:ting_details_referenced:ting_object:label
+msgctxt "ting_details_referenced:ting_object:label"
+msgid "Referenced by"
+msgstr ""
+
+#: field:ting_details_replaced_by:ting_object:label
+msgctxt "ting_details_replaced_by:ting_object:label"
+msgid "Later title"
+msgstr ""
+
+#: field:ting_details_replaces:ting_object:label
+msgctxt "ting_details_replaces:ting_object:label"
+msgid "Previous title"
+msgstr ""
+
+#: field:ting_details_rights:ting_object:label
+msgctxt "ting_details_rights:ting_object:label"
+msgid "Rights"
+msgstr ""
+
+#: field:ting_details_source:ting_object:label
+msgctxt "ting_details_source:ting_object:label"
+msgid "Original title"
+msgstr ""
+
+#: field:ting_details_spatial:ting_object:label
+msgctxt "ting_details_spatial:ting_object:label"
+msgid "Spatial"
+msgstr ""
+
+#: field:ting_details_spoken:ting_object:label
+msgctxt "ting_details_spoken:ting_object:label"
+msgid "Speech"
+msgstr ""
+
+#: field:ting_details_subjects:ting_object:label
+msgctxt "ting_details_subjects:ting_object:label"
+msgid "Subject"
+msgstr ""
+
+#: field:ting_details_subtitles:ting_object:label
+msgctxt "ting_details_subtitles:ting_object:label"
+msgid "Subtitle"
+msgstr ""
+
+#: field:ting_details_tracks:ting_object:label
+msgctxt "ting_details_tracks:ting_object:label"
+msgid "Contains"
+msgstr ""
+
+#: field:ting_details_type:ting_object:label
+msgctxt "ting_details_type:ting_object:label"
+msgid "Type"
+msgstr ""
+
+#: field:ting_details_uri:ting_object:label
+msgctxt "ting_details_uri:ting_object:label"
+msgid "Host publication"
+msgstr ""
+
+#: field:ting_details_version:ting_object:label
+msgctxt "ting_details_version:ting_object:label"
+msgid "Version"
+msgstr ""
+
+#: field:ting_entities:ting_collection:label
+msgctxt "ting_entities:ting_collection:label"
+msgid "All materials"
+msgstr ""
+
+#: field:ting_entities:ting_collection:label
+msgctxt "ting_entities:ting_collection:label"
+msgid "Ting collection objects"
+msgstr ""
+
+#: field:ting_infomedia:ting_object:label
+msgctxt "ting_infomedia:ting_object:label"
+msgid "Link to infomedia articles"
+msgstr ""
+
+#: field:ting_primary_object:ting_collection:label
+msgctxt "ting_primary_object:ting_collection:label"
+msgid "Ting collection primary object"
+msgstr ""
+
+#: field:ting_reference_reverse:ting_object:label
+msgctxt "ting_reference_reverse:ting_object:label"
+msgid "On this site"
+msgstr ""
+
+#: field:ting_relations:ting_object:label
+msgctxt "ting_relations:ting_object:label"
+msgid "Ting relations."
+msgstr ""
+
+#: field:ting_series:ting_object:label
+msgctxt "ting_series:ting_object:label"
+msgid "Series"
+msgstr ""
+
+#: field:ting_series:ting_object:label
+msgctxt "ting_series:ting_object:label"
+msgid "Ting object series"
+msgstr ""
+
+#: field:ting_subjects:ting_object:label
+msgctxt "ting_subjects:ting_object:label"
+msgid "Subjects"
+msgstr ""
+
+#: field:ting_subjects:ting_object:label
+msgctxt "ting_subjects:ting_object:label"
+msgid "Ting object subjects"
+msgstr ""
+
+#: field:ting_title:ting_object:label
+msgctxt "ting_title:ting_object:label"
+msgid "Ting object title"
+msgstr ""
+
+#: field:ting_type:ting_object:label
+msgctxt "ting_type:ting_object:label"
+msgid "Ting object type"
+msgstr ""
+
+#: field:ding_event_groups_ref:ding_event:description
+msgctxt "ding_event_groups_ref:ding_event:description"
+msgid "Display this event in the selected group (temapage)."
+msgstr "Vis dette arrangementet i den valgte gruppe (temaside)."
+
+#: field:ding_event_groups_ref:ding_event:label
+msgctxt "ding_event_groups_ref:ding_event:label"
+msgid "Groups"
+msgstr "Grupper"
+
+#: field:ding_news_groups_ref:ding_news:description
+msgctxt "ding_news_groups_ref:ding_news:description"
+msgid "Display this event in the selected group (temapage)."
+msgstr "Vis dette arrangementet i den valgte gruppe (temaside)."
+
+#: field:ding_news_groups_ref:ding_news:label
+msgctxt "ding_news_groups_ref:ding_news:label"
+msgid "Groups"
+msgstr "Grupper"
+
+#: field:ding_page_group_ref:ding_page:label
+msgctxt "ding_page_group_ref:ding_page:label"
+msgid "Libraries and Groups"
+msgstr "Biblioteker og temasider"
+
+#: field:field_dams_category:audio:label
+msgctxt "field_dams_category:audio:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_dams_category:document:label
+msgctxt "field_dams_category:document:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_dams_category:image:label
+msgctxt "field_dams_category:image:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_dams_category:video:label
+msgctxt "field_dams_category:video:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_ding_campaign_plus_display:#allowed_values:box
+msgctxt "field_ding_campaign_plus_display:#allowed_values:box"
+msgid "Box"
+msgstr "Boks"
+
+#: field:field_ding_campaign_plus_display:#allowed_values:ribbon
+msgctxt "field_ding_campaign_plus_display:#allowed_values:ribbon"
+msgid "Ribbon"
+msgstr "Bånd"
+
+#: field:field_ding_campaign_plus_image:ding_campaign_plus:label
+msgctxt "field_ding_campaign_plus_image:ding_campaign_plus:label"
+msgid "Image"
+msgstr "Bilde"
+
+#: field:field_ding_campaign_plus_link:ding_campaign_plus:label
+msgctxt "field_ding_campaign_plus_link:ding_campaign_plus:label"
+msgid "Link"
+msgstr "Lenke"
+
+#: field:field_ding_campaign_plus_style:ding_campaign_plus:label
+msgctxt "field_ding_campaign_plus_style:ding_campaign_plus:label"
+msgid "Style"
+msgstr "Stil"
+
+#: field:field_ding_campaign_plus_style:ding_campaign_plus:description
+msgctxt "field_ding_campaign_plus_style:ding_campaign_plus:description"
+msgid ""
+"<b>Ribbon</b>:<br />\n"
+"Campaign ribbon are placed according to the page's primary content on "
+"eg. material view. The campaign has the same width as the page's "
+"column. Images for this view should be in a horizontal format such as "
+"the title picture.\n"
+"<br /><br />\n"
+"<b>Box</b>:<br />\n"
+"Campaign box is located at the bottom of the left column, on the page "
+"types where there are 2 columns. This view will be e.g. used when "
+"searching. Use pictures of the list image or a more square image if "
+"you want to utilize something more of the height."
+msgstr ""
+"<b>Bånd</b>:<br /> Kampanjebånd blir plassert i henhold til sidens "
+"primære innhold på f.eks. visning material. Kampanjen har den samme "
+"bredden som sidens kolonne. Bilder for denne visningen burde være i "
+"horisontal format, sånn som tittelbildet. <br /><br /> "
+"<b>Boks</b>:<br /> Kampanjeboksen finner du på bunnen av den venstre "
+"kolonnen på sidetypene der det er 2 kolonner. Denne visningen will "
+"eksempelvis bli brukt når man søker. Bruk bilder fra bildelisten "
+"eller et mer kvadrat bilde hvis du vil bruke noe med mer høyde."
+
+#: field:field_ding_campaign_plus_text:ding_campaign_plus:label
+msgctxt "field_ding_campaign_plus_text:ding_campaign_plus:label"
+msgid "Text"
+msgstr "Tekst"
+
+#: field:field_ding_campaign_plus_type:#allowed_values:campaign_text_with_image
+msgctxt "field_ding_campaign_plus_type:#allowed_values:campaign_text_with_image"
+msgid "Text with image"
+msgstr "Tekst med bilde"
+
+#: field:field_ding_campaign_plus_type:#allowed_values:campaign_text_and_image
+msgctxt "field_ding_campaign_plus_type:#allowed_values:campaign_text_and_image"
+msgid "Text and image side by side"
+msgstr "Tekst med bilde ved siden av hverandre"
+
+#: field:field_ding_campaign_plus_type:#allowed_values:campaign_image
+msgctxt "field_ding_campaign_plus_type:#allowed_values:campaign_image"
+msgid "Image"
+msgstr "Bilde"
+
+#: field:field_ding_campaign_plus_type:#allowed_values:campaign_text
+msgctxt "field_ding_campaign_plus_type:#allowed_values:campaign_text"
+msgid "Text only"
+msgstr "Kun tekst"
+
+#: field:field_ding_eresource_access:ding_eresource:description
+msgctxt "field_ding_eresource_access:ding_eresource:description"
+msgid ""
+"For an e-resource with free access, leave this field empty. Otherwise "
+"the chosen access category is displayed to the user. \r\n"
+"If proxy is enabled, this category also controls whether or not prefix "
+"the e-resource link with the proxy. "
+msgstr ""
+"For en e-ressurs med fri tilgang, la dette feltet være tomt. Hvis "
+"ikke vil den valgte tilgangskategorien vises for brukeren. Hvis "
+"proxyen er aktivert, vil denne kategorien også kontrollere om "
+"e-ressursen vil linkes med proxyen. "
+
+#: field:field_ding_eresource_access:ding_eresource:label
+msgctxt "field_ding_eresource_access:ding_eresource:label"
+msgid "Access"
+msgstr "Tilgang"
+
+#: field:field_ding_eresource_body:ding_eresource:label
+msgctxt "field_ding_eresource_body:ding_eresource:label"
+msgid "Body"
+msgstr "Brødtekst"
+
+#: field:field_ding_eresource_category:ding_eresource:label
+msgctxt "field_ding_eresource_category:ding_eresource:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_ding_eresource_files:ding_eresource:label
+msgctxt "field_ding_eresource_files:ding_eresource:label"
+msgid "Files"
+msgstr "Filer"
+
+#: field:field_ding_eresource_lead:ding_eresource:label
+msgctxt "field_ding_eresource_lead:ding_eresource:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_eresource_list_image:ding_eresource:label
+msgctxt "field_ding_eresource_list_image:ding_eresource:label"
+msgid "List image"
+msgstr "Listebilde"
+
+#: field:field_ding_eresource_materials:ding_eresource:label
+msgctxt "field_ding_eresource_materials:ding_eresource:label"
+msgid "Materials"
+msgstr "Relaterte materialer"
+
+#: field:field_ding_eresource_tags:ding_eresource:label
+msgctxt "field_ding_eresource_tags:ding_eresource:label"
+msgid "Tags"
+msgstr "Stikkord"
+
+#: field:field_ding_eresource_title_image:ding_eresource:label
+msgctxt "field_ding_eresource_title_image:ding_eresource:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_event_body:ding_event:label
+msgctxt "field_ding_event_body:ding_event:label"
+msgid "Body"
+msgstr "Brødtekst"
+
+#: field:field_ding_event_category:ding_event:label
+msgctxt "field_ding_event_category:ding_event:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_ding_event_files:ding_event:label
+msgctxt "field_ding_event_files:ding_event:label"
+msgid "Files"
+msgstr "Filer"
+
+#: field:field_ding_event_lead:ding_event:label
+msgctxt "field_ding_event_lead:ding_event:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_event_list_filter:#allowed_values:only_start_date
+msgctxt "field_ding_event_list_filter:#allowed_values:only_start_date"
+msgid ""
+"Vis kun på startdatoen på forsiden og begivenhedsoversigten (Vises "
+"altid på afholdelsesbiblioteket)"
+msgstr ""
+"Vis kun på startdatoen på forsiden og hendelsesoversikten (Vises "
+"alltid på avholdelsesbiblioteket)"
+
+#: field:field_ding_event_list_filter:#allowed_values:show_all
+msgctxt "field_ding_event_list_filter:#allowed_values:show_all"
+msgid "Vis på dags dato, så begivenheden er synlig hver dag den foregår."
+msgstr "Vis på dags dato, så hendelsen er synlig hver dag den foregår. "
+
+#: field:field_ding_event_list_filter:ding_event:label
+msgctxt "field_ding_event_list_filter:ding_event:label"
+msgid "Event list filter"
+msgstr "Hendelseslistefilter"
+
+#: field:field_ding_event_list_image:ding_event:label
+msgctxt "field_ding_event_list_image:ding_event:label"
+msgid "List image"
+msgstr "Listebilde"
+
+#: field:field_ding_event_location:ding_event:description
+msgctxt "field_ding_event_location:ding_event:description"
+msgid ""
+"Optional. If provided, the location address will be shown instead of "
+"the address of the associated library when presenting info on the "
+"event."
+msgstr ""
+"Valgfri. Hvis valgt, vil adressen på det valgte stedet bli vist i "
+"stedet for adressen på det biblioteken hendelsen er relatert til når "
+"hendelsesinformasjonen vises. "
+
+#: field:field_ding_event_location:ding_event:label
+msgctxt "field_ding_event_location:ding_event:label"
+msgid "Location"
+msgstr "Sted"
+
+#: field:field_ding_event_materials:ding_event:label
+msgctxt "field_ding_event_materials:ding_event:label"
+msgid "Materials"
+msgstr "Relaterte materialer"
+
+#: field:field_ding_event_organizers:ding_event:description
+msgctxt "field_ding_event_organizers:ding_event:description"
+msgid "Add one or more organizer(s) to your event. "
+msgstr "Legg til en eller flere arrangører til hendelsen din."
+
+#: field:field_ding_event_organizers:ding_event:label
+msgctxt "field_ding_event_organizers:ding_event:label"
+msgid "Organizer"
+msgstr "Arrangør"
+
+#: field:field_ding_event_place:ding_event:description
+msgctxt "field_ding_event_place:ding_event:description"
+msgid "Use this to direct your guests to the correct place"
+msgstr "Benyttes for å dirigere gjestene til det korrekte lokalet"
+
+#: field:field_ding_event_place:ding_event:label
+msgctxt "field_ding_event_place:ding_event:label"
+msgid "Place / Room"
+msgstr "Sted / Rom"
+
+#: field:field_ding_event_price:ding_event:description
+msgctxt "field_ding_event_price:ding_event:description"
+msgid ""
+"Events show the value \"Gratis\", if the field is set to 0. If there's "
+"multiple ticket types, you can set the value as lowest - highest price "
+"in the field, like \"30 - 50\""
+msgstr ""
+"Hendelser viser verdien \"Gratis\" hvis feltet er satt til 0. Hvis det "
+"er flere billettyper kan du sette verdiene lavest - høyest i feltet, "
+"som f.eks. \"30 - 50\""
+
+#: field:field_ding_event_price:ding_event:label
+msgctxt "field_ding_event_price:ding_event:label"
+msgid "Price"
+msgstr "Pris"
+
+#: field:field_ding_event_tags:ding_event:label
+msgctxt "field_ding_event_tags:ding_event:label"
+msgid "Tags"
+msgstr "Stikkord"
+
+#: field:field_ding_event_target:ding_event:label
+msgctxt "field_ding_event_target:ding_event:label"
+msgid "Target"
+msgstr "Målgruppe"
+
+#: field:field_ding_event_ticket_link:ding_event:description
+msgctxt "field_ding_event_ticket_link:ding_event:description"
+msgid ""
+"An external link to a site where the user can sign up for the event or "
+"buy tickets to the event. The link is printet out as a button. If the "
+"event has a price the text on the button will be \"Bestil "
+"billet(ter)\" - if not, the text will be \"Deltag i arrangementet\". "
+"If Place2book is used, this field should not be used."
+msgstr ""
+"En ekstern link til en side der brukeren kan melde seg på hendelsen "
+"eller kjøpe billett til hendelsen. Denne linken fremstår som en "
+"knapp. Hvis hendelsen har en pris, vil teksten på knappen være "
+"\"Bestill billet(ter)\" - hvis ikke, vil teksten være \"Delta på "
+"hendelsen\". Hvis Place2book blir brukt, skal ikke dette feltet "
+"brukes.  "
+
+#: field:field_ding_event_ticket_link:ding_event:label
+msgctxt "field_ding_event_ticket_link:ding_event:label"
+msgid "Book ticket/Participate in event"
+msgstr "Bestill billett / delta på hendelsen"
+
+#: field:field_ding_event_title_image:ding_event:label
+msgctxt "field_ding_event_title_image:ding_event:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_group_body:ding_group:label
+msgctxt "field_ding_group_body:ding_group:label"
+msgid "Body"
+msgstr "Brødtekst"
+
+#: field:field_ding_group_category:ding_group:label
+msgctxt "field_ding_group_category:ding_group:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_ding_group_lead:ding_group:label
+msgctxt "field_ding_group_lead:ding_group:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_group_list_image:ding_group:label
+msgctxt "field_ding_group_list_image:ding_group:label"
+msgid "List image"
+msgstr "Listebilde"
+
+#: field:field_ding_group_title_image:ding_group:label
+msgctxt "field_ding_group_title_image:ding_group:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_library_addresse:ding_library:label
+msgctxt "field_ding_library_addresse:ding_library:label"
+msgid "Address"
+msgstr "Adresse"
+
+#: field:field_ding_library_body:ding_library:label
+msgctxt "field_ding_library_body:ding_library:label"
+msgid "Body"
+msgstr "Brødtekst"
+
+#: field:field_ding_library_fax_number:ding_library:label
+msgctxt "field_ding_library_fax_number:ding_library:label"
+msgid "Fax number"
+msgstr "Faksnummer"
+
+#: field:field_ding_library_lead:ding_library:label
+msgctxt "field_ding_library_lead:ding_library:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_library_links:ding_library:label
+msgctxt "field_ding_library_links:ding_library:label"
+msgid "Links"
+msgstr "Lenker"
+
+#: field:field_ding_library_mail:ding_library:description
+msgctxt "field_ding_library_mail:ding_library:description"
+msgid "The main contact e-mail address for the library."
+msgstr "Bibliotekets primære e-postadresse. "
+
+#: field:field_ding_library_phone_number:ding_library:label
+msgctxt "field_ding_library_phone_number:ding_library:label"
+msgid "Phone number"
+msgstr "Telefon"
+
+#: field:field_ding_library_slug:ding_library:label
+msgctxt "field_ding_library_slug:ding_library:label"
+msgid "Slug"
+msgstr "Alternativ URL"
+
+#: field:field_ding_library_title_image:ding_library:label
+msgctxt "field_ding_library_title_image:ding_library:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_news_category:ding_news:label
+msgctxt "field_ding_news_category:ding_news:label"
+msgid "Category"
+msgstr "Kategori"
+
+#: field:field_ding_news_files:ding_news:label
+msgctxt "field_ding_news_files:ding_news:label"
+msgid "Files"
+msgstr "Filer"
+
+#: field:field_ding_news_lead:ding_news:label
+msgctxt "field_ding_news_lead:ding_news:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_news_list_image:ding_news:label
+msgctxt "field_ding_news_list_image:ding_news:label"
+msgid "List image"
+msgstr "Listebilde"
+
+#: field:field_ding_news_materials:ding_news:label
+msgctxt "field_ding_news_materials:ding_news:label"
+msgid "Materials"
+msgstr "Relaterte materialer"
+
+#: field:field_ding_news_paragraphs:ding_news:description
+msgctxt "field_ding_news_paragraphs:ding_news:description"
+msgid "Close all paragraphs to change the order"
+msgstr "Lukk alle avsnitt for å endre rekkefølge"
+
+#: field:field_ding_news_paragraphs:ding_news:label
+msgctxt "field_ding_news_paragraphs:ding_news:label"
+msgid "Paragraphs"
+msgstr "Avsnitt"
+
+#: field:field_ding_news_show_as_list:ding_news:label
+msgctxt "field_ding_news_show_as_list:ding_news:label"
+msgid "Show as material list"
+msgstr "Vis som materialliste"
+
+#: field:field_ding_news_title_image:ding_news:label
+msgctxt "field_ding_news_title_image:ding_news:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_page_files:ding_page:label
+msgctxt "field_ding_page_files:ding_page:label"
+msgid "Files"
+msgstr "Filer"
+
+#: field:field_ding_page_lead:ding_page:label
+msgctxt "field_ding_page_lead:ding_page:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_ding_page_list_image:ding_page:label
+msgctxt "field_ding_page_list_image:ding_page:label"
+msgid "List image"
+msgstr "Listebilde"
+
+#: field:field_ding_page_materials:ding_page:label
+msgctxt "field_ding_page_materials:ding_page:label"
+msgid "Materials"
+msgstr "Relaterte materialer"
+
+#: field:field_ding_page_paragraphs:ding_page:description
+msgctxt "field_ding_page_paragraphs:ding_page:description"
+msgid "Close all paragraphs to change the order"
+msgstr "Lukk alle avsnitt for å endre rekkefølge"
+
+#: field:field_ding_page_paragraphs:ding_page:label
+msgctxt "field_ding_page_paragraphs:ding_page:label"
+msgid "Paragraphs"
+msgstr "Avsnitt"
+
+#: field:field_ding_page_tags:ding_page:label
+msgctxt "field_ding_page_tags:ding_page:label"
+msgid "Tags"
+msgstr "Stikkord"
+
+#: field:field_ding_page_title_image:ding_page:label
+msgctxt "field_ding_page_title_image:ding_page:label"
+msgid "Title image"
+msgstr "Tittelbilde"
+
+#: field:field_ding_section:ding_event:label
+msgctxt "field_ding_section:ding_event:label"
+msgid "Section"
+msgstr "Seksjon"
+
+#: field:field_ding_section:ding_news:label
+msgctxt "field_ding_section:ding_news:label"
+msgid "Section"
+msgstr "Seksjon"
+
+#: field:field_ding_section:ding_page:label
+msgctxt "field_ding_section:ding_page:label"
+msgid "Section"
+msgstr "Seksjon"
+
+#: field:field_ding_staff_image:ding_staff_profile:label
+msgctxt "field_ding_staff_image:ding_staff_profile:label"
+msgid "Image"
+msgstr "Bilde"
+
+#: field:field_ding_tabroll_lead:ding_rolltab:label
+msgctxt "field_ding_tabroll_lead:ding_rolltab:label"
+msgid "Lead"
+msgstr "Innledning"
+
+#: field:field_hide_news_and_events:ding_library:description
+msgctxt "field_hide_news_and_events:ding_library:description"
+msgid "News and events on library page will be hidden if checked."
+msgstr ""
+"Nyheter og arrangementer på bibliotekssiden vil bli skjult hvis du "
+"haker av. "
+
+#: field:field_hide_news_and_events:ding_library:label
+msgctxt "field_hide_news_and_events:ding_library:label"
+msgid "Hide News and Events"
+msgstr "Skjul nyheter og arrangementer"
+
+#: field:field_newsletter_term:newsletter:label
+msgctxt "field_newsletter_term:newsletter:label"
+msgid "Mailinglist"
+msgstr "Mailliste"
+
+#: field:field_show_on_mobiles:ding_campaign_plus:label
+msgctxt "field_show_on_mobiles:ding_campaign_plus:label"
+msgid "Show on mobile?"
+msgstr "Vis på mobil?"
+
+#: field:field_taxonomy_ting_objects:ding_content_tags:label
+msgctxt "field_taxonomy_ting_objects:ding_content_tags:label"
+msgid "Materials"
+msgstr "Relaterte materialer"
+
+#: field:og_group_ref:ding_event:description
+msgctxt "og_group_ref:ding_event:description"
+msgid "Select the libraries this content should be associated with."
+msgstr "Velg bibliotekene som innholdet skal relateres til."
+
+#: field:og_group_ref:ding_event:label
+msgctxt "og_group_ref:ding_event:label"
+msgid "Library"
+msgstr "Bibliotek"
+
+#: field:og_group_ref:ding_news:description
+msgctxt "og_group_ref:ding_news:description"
+msgid "Select the libraries this content should be associated with."
+msgstr "Velg bibliotekene som innholdet skal relateres til."
+
+#: field:og_group_ref:ding_news:label
+msgctxt "og_group_ref:ding_news:label"
+msgid "Library"
+msgstr "Bibliotek"
+
+#: field:og_group_ref:ding_staff_profile:description
+msgctxt "og_group_ref:ding_staff_profile:description"
+msgid "Select the libraries this content should be associated with."
+msgstr "Velg bibliotekene som innholdet skal relateres til."
+
+#: field:og_group_ref:ding_staff_profile:label
+msgctxt "og_group_ref:ding_staff_profile:label"
+msgid "Library"
+msgstr "Bibliotek"
+
