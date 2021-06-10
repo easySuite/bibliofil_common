@@ -33,3 +33,4 @@ features[user_permission][] = dynamic backgrounds css callback
 features[user_permission][] = dynamic backgrounds set default
 features[user_permission][] = dynamic backgrounds weight
 features[user_permission][] = view files
+version = 7.x-6.2.1

@@ -1,0 +1,109 @@
+# Norwegian Bokmål translation of Fredrikstad bibliotek
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-04-15 18:10+0200\n"
+"PO-Revision-Date: 2021-04-15 18:10+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: taxonomy:vocabulary:13:name
+msgctxt "vocabulary:13:name"
+msgid "Mediebibliotekskategorier"
+msgstr ""
+
+#: taxonomy:vocabulary:14:description
+msgctxt "vocabulary:14:description"
+msgid "Mailinglists used to send newsletters to."
+msgstr ""
+
+#: taxonomy:vocabulary:2:name
+msgctxt "vocabulary:2:name"
+msgid "Tags"
+msgstr ""
+
+#: taxonomy:vocabulary:3:description
+msgctxt "vocabulary:3:description"
+msgid "Event category usend under event types"
+msgstr ""
+
+#: taxonomy:vocabulary:5:description
+msgctxt "vocabulary:5:description"
+msgid "Event target"
+msgstr ""
+
+#: taxonomy:vocabulary:6:description
+msgctxt "vocabulary:6:description"
+msgid "Category used to group groups (temapages)"
+msgstr ""
+
+#: taxonomy:vocabulary:7:name
+msgctxt "vocabulary:7:name"
+msgid "News Category"
+msgstr ""
+
+#: taxonomy:vocabulary:8:description
+msgctxt "vocabulary:8:description"
+msgid "Available department labels in staff profiles"
+msgstr ""
+
+#: taxonomy:vocabulary:8:name
+msgctxt "vocabulary:8:name"
+msgid "Avdeling"
+msgstr ""
+
+#: taxonomy:vocabulary:10:name
+msgctxt "vocabulary:10:name"
+msgid "E-resource availability"
+msgstr "E-ressurs-tilgjengelighet"
+
+#: taxonomy:vocabulary:11:name
+msgctxt "vocabulary:11:name"
+msgid "E-resource category"
+msgstr "E-ressurs-kategori"
+
+#: taxonomy:vocabulary:12:name
+msgctxt "vocabulary:12:name"
+msgid "Opningstider"
+msgstr "Åpningstider"
+
+#: taxonomy:vocabulary:14:name
+msgctxt "vocabulary:14:name"
+msgid "Mailinglists"
+msgstr "Mailingliste"
+
+#: taxonomy:vocabulary:1:name
+msgctxt "vocabulary:1:name"
+msgid "Category (ikke brukt)"
+msgstr "Kategori (ikke brukt)"
+
+#: taxonomy:vocabulary:3:name
+msgctxt "vocabulary:3:name"
+msgid "Event category"
+msgstr "Hendelseskategori"
+
+#: taxonomy:vocabulary:4:name
+msgctxt "vocabulary:4:name"
+msgid "Event organizer"
+msgstr "Hendelsesorganisator"
+
+#: taxonomy:vocabulary:5:name
+msgctxt "vocabulary:5:name"
+msgid "Event target"
+msgstr "Hendelsesmål"
+
+#: taxonomy:vocabulary:6:name
+msgctxt "vocabulary:6:name"
+msgid "Group category"
+msgstr "Gruppekategori"
+
+#: taxonomy:vocabulary:9:name
+msgctxt "vocabulary:9:name"
+msgid "Section"
+msgstr "Avdeling"
+
